@@ -1,2 +1,2 @@
 # GenerativeAI
-Repository to host Generative AI and Agentic AI content
+RAG project for PDF summarization and Q&A
